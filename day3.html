@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FormDocument</title>
+  </head>
+  <body>
+
+    <h1>Example Form</h1>
+    <form>
+      <label for="name">Text Input:</label>
+      <input type="text" id="name" placeholder="Enter you name" /><br /><br />
+      <label for="password">Password:</label>
+      <input
+        type="password"
+        placeholder="Enter your password"
+        id="password"
+      /><br /><br />
+      <label for="email">Email:</label>
+      <input
+        type="text"
+        placeholder="Enter your email"
+        id="email"
+      /><br /><br />
+      <label for="number">Number:</label>
+      <input
+        type="number"
+        placeholder="Enter a number"
+        id="number"
+      /><br /><br />
+      <label for="date">Date:</label>
+      <input type="date" id="date" /><br /><br />
+      <label for="time">Time:</label>
+      <input type="time" id="time" /><br /><br />
+      <label for="limit">Range:</label>
+      <input type="range" id="limit" name="limit"/><br /><br />
+      <label for="file">Upload File (Image or PDF):</label>
+      <input type="file" id="file" /><br /><br />
+      <label for="gender">Gender:</label>
+      <input type="radio" name="gender" id="gender" value="male" />Male
+      <input
+        type="radio"
+        name="gender"
+        id="gender"
+        value="female"
+      />Female<br /><br />
+      <label for="interest">Interests:</label>
+      <input type="checkbox" id="interest" value="coding" />Coding
+      <input type="checkbox" id="interest" value="reading" />Reading
+      <input
+        type="checkbox"
+        id="interest"
+        value="traveling"
+      />Traveling<br /><br />
+      <label for="country">Country:</label>
+      <select id="country">
+        <option value="india">India</option>
+        <option value="usa">USA</option>
+        <option value="japan">Japan</option>
+        <option value="qatar">Qatar</option>
+        <option value="uk">UK</option></select
+      ><br /><br />
+      <label>Short Bio:</label>
+      <textarea
+        placeholder="Tell us about yourself"
+        cols="30"
+        rows="5"
+      ></textarea
+      ><br /><br />
+      <button>Submit</button>
+    </form>
+  </body>
+</html>
