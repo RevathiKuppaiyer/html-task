@@ -1,0 +1,55 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.head{  
+      
+    height: 150px;    
+    width: 100%;
+    color: rgb(196, 216, 14);
+    background-image: url("https://images.template.net/wp-content/uploads/2016/04/Nature-Wallpaper.jpg");
+    
+}
+.head h1{
+    text-align: center;
+    padding: 50px;
+    
+
+}
+.one
+{
+display: inline-block;
+height: 100%;
+width:100%;
+position: relative;
+}
+.one p{
+    background-color: rgba(197, 197, 194, 0.329);
+    padding:20px;
+}
+.two{
+    padding-left:20px;
+    padding-right:20px;
+}
+.two h2,h3,h4{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.two li{
+    margin-left: 20px;
+    padding: 10px;
+}
+.two h4{
+    background-color: rgba(194, 194, 179, 0.555);
+    padding:10px;
+}
+.three li
+{
+    margin-left:10px;
+    padding :10px;
+}
+footer{
+    font-size: xx-small;
+    text-align: right;
+}
