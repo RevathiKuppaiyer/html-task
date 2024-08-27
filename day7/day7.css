@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header{
+    height: 9vh;
+    position: sticky;
+
+}
+.container{
+    width: 100px;
+    height:100px;
+
+}
+.container img{
+
+    height: 50px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left:40px;
+
+}
+nav{
+    height:70px;
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+}
+h1{
+    margin-top:15px ;
+    margin-right: 65%;
+}
+ul{
+    margin-top: 25px;
+    display:flex;
+    gap: 10px;
+}
+li{
+   list-style-type: none;
+}
+
+.sectionImgContainer{  
+   
+    width: 200px;
+    height: 200px;
+    position: relative;
+}
+.sectionImgContainer img{
+    position:absolute;
+    top: 70px;
+    left: 250px;
+    height:170px;
+    width:170px;
+    border-radius:50%;
+}
+.sectionParaContainer{
+    box-sizing: content-box;
+    width:100vh;
+    height: 300px;
+    position:relative;
+}
+.sectionParaContainer p,h2{
+   margin-top: 10px; 
+    position: relative;
+    left:65%;
+    top:-40%;
+}
+.container2{
+    height:200px;
+    width:100%;
+    position:relative;
+    margin-top: 50%;
+    margin-top:-15%;
+    margin-left: 40%;
+}
+.container2 h2{
+    position: absolute;
+    margin-top: 50px;
+    margin-left:-65%;
+}
+
+.footerclass{
+    height:50px;
+    background-color: aqua;   
+    position: relative;
+}
+.footerclass p{
+    position:absolute;
+    margin-top: 20px;
+    margin-left: 30% ;
+}
