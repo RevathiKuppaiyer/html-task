@@ -20,3 +20,6 @@
 ## Day6(25/08/2024)
   Learned about CSS BoxModel-content, margin, border, padding and its property. Also covered text property, font property, display:flex and its properties
  ### Task6: Created a Flex page using CSS BoxModel & display-flex property
+ ## Day7(26/08/2024)
+  Learned about position: static,fixed, absolute, relative, sticky ; overflow, z-index.In pseudo selector covered hover, first of type,last of type, specific features available for anchor tag(link,visited,active, hover)
+### Task7: Created a company web page with CSS
