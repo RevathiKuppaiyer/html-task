@@ -23,3 +23,6 @@
  ## Day7(26/08/2024)
   Learned about position: static,fixed, absolute, relative, sticky ; overflow, z-index.In pseudo selector covered hover, first of type,last of type, specific features available for anchor tag(link,visited,active, hover)
 ### Task7: Created a company web page with CSS
+## Day9(28/08/2024)
+   Learned about display-grid, grid-template-row, grid-template-column,fractionalunit/frame(1fr)
+### Task9: Created grid layouts
