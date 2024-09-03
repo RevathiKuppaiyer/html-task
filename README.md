@@ -16,12 +16,12 @@
 # CSS
 ## Day4(23/08/2024)
   Learned about Video and Audio Elements, Types of CSS- Inline CSS, Internal CSS, ExternalCSS
- ### Task4: Created a page with video,audio tags
+### Task4: Created a page with video,audio tags
  [Day4] https://html-taskrevathiday4.vercel.app/
 ## Day5(24/08/2024)
   Learned about CSS Selectors-Simple Selector, Combinator Selector,Pseudo Selector, Attibute Selector, Color property, Background image-adding, positioning,Background-repeat
   [Day5] https://html-taskrevathiday5.vercel.app/
- ### Task5: Created a simple web page with background image and used some of the learned property
+### Task5: Created a simple web page with background image and used some of the learned property
 ## Day6(25/08/2024)
   Learned about CSS BoxModel-content, margin, border, padding and its property. Also covered text property, font property, display:flex and its properties
  ### Task6: Created a Flex page using CSS BoxModel & display-flex property
@@ -33,5 +33,3 @@
 ## Day8(27/08/2024)
   Learned about transition(Timing-function:linear,ease,easein, easeout)
 Animation,Media Queries
-## Day9(28/08/2024)
-   Learned about display-grid, grid-template-row, grid-template-column,fractionalunit/frame(1fr)
